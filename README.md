@@ -1,5 +1,24 @@
 # README
 
+1. command line
+2. verified using: pwd, cd, ls
+3. ls
+4. directory contents
+    applications
+    desktop
+    docouments
+    downloads
+    library
+    movies
+    music 
+    one drive
+    pictures
+    public
+    my-app
+5. ls -la (total 40)
+6. stuck here TT ^ TT
+
+--
 This repo features a set of activities designed to help you practice using the unix command line.
 
 ## Instructions
